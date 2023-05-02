@@ -8,6 +8,7 @@ In the folder Images, it contains all the µ-CT images that we did for this proj
 There are two code files in the main folder. 
 First one is (Final_project_data_preprocess.ipynb), which was used to load image and analyze image features into csv file for the following transfer learning code. To use this code, import your images into Images folder and put the same groups of images in the same subfolder based on the above data naming rule.
 Second code is (Final_project_data_training.ipynb), this code is for you to train your data set and evaluate the performance of the model.
+Trained_model: https://drive.google.com/file/d/14Ji493VZq2nxneOxnRn9NWlcDHzA-PB9/view?usp=sharing
 
 3 CT-images dataset:
 For the access of the data set, please click on the following link:
