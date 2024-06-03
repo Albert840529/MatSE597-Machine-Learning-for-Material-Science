@@ -1,4 +1,4 @@
-# MatSE597(Machine Learning for Material Science)_Final_project
+# MatSE597(Machine Learning for Material Science)-Final project
 semi-supervised learning for understanding composite morphology and mechanical properties
 
 1 Data:
