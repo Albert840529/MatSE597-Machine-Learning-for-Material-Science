@@ -45,6 +45,3 @@ The dataset used for this project can be accessed via the following link:
 - Ensure that the folder structure and naming conventions are followed to avoid issues with data preprocessing.
 - If you encounter any issues or have questions, please feel free to open an issue in this repository.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
